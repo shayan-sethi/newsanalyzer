@@ -11,4 +11,4 @@ def index():
 def analyze():
     url = request.form['url']
     result = analyze_news(url)
-    return result  # or jsonify(result) if it's a dict
+    return result
