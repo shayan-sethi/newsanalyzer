@@ -25,8 +25,8 @@ Results are displayed in real time on the page.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/shayan-sethi/news-analyzer
-cd news-analyzer
+git clone https://github.com/shayan-sethi/newsanalyzer
+cd newsanalyzer
 ```
 
 ### 2. Install dependencies
@@ -50,3 +50,4 @@ Then open http://127.0.0.1:5000 in your browser.
 - `facebook/bart-large-cnn` — summarization
 - `distilbert-base-uncased-finetuned-sst-2-english` — sentiment
 - `premsa/political-bias-prediction-allsides-DeBERTa` — bias classification
+
